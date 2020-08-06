@@ -4,4 +4,3 @@ class Teacher < class User
 
   
 end
-end
